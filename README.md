@@ -40,5 +40,5 @@ npm run dev
 ## Screenshot
 
 <p align="center">
-  <img src="Capture.png" alt="Cooking Website Home" width="600">
+  <img src="Capture.PNG" alt="Cooking Website Home" width="600">
 </p>
