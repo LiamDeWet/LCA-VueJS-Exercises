@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# Cooking Masterclass Catalogue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+This project is a Vue 3 single-page application that displays cooking courses offered by Cooking Masterclass.
+
+Users can:
+
+- View available courses
+- See chef names
+- View course levels
+- View pricing
+- Identify sold out classes
+- Save courses to a wishlist
+
+## Technologies Used
+
+- Vue 3
+- Vite
+- CSS
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Screenshot
+
+(Add screenshot here after completing project)
