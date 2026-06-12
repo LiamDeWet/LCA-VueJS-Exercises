@@ -1,4 +1,14 @@
-# Cape Town Food Fest Ticket Landing
+# LCA-Vue-pt 2 Cape Town Food Fest Ticket Landing
+
+**Trainee:** Liam De Wet
+<br>
+**Programme:** YouthCode Off-Site - Cohort 2, 2026
+<br>
+**Course:** Course 1 - Frontend Web Development
+<br>
+**Topic:** Cape Town Food Fest Ticket Landing
+
+<br>
 
 ## Overview
 
@@ -21,9 +31,13 @@ Features include:
 ## Installation
 
 ```bash
+cd week9_ex02_vuejs_food_fest
 npm install
 npm run dev
 ```
 
 ## Screenshot
 
+<p align="center">
+  <img src="Capture.PNG" alt="Cape town food fest landing page" width="600">
+</p>
