@@ -31,8 +31,9 @@ Users can:
 - CSS
 
 ## Installation
-### Clone the repository to you machine then run these commands: 
+### Clone the repository to your machine then run these commands: 
 ```bash
+cd week9_ex01_vuejs_cooking_catalogue
 npm install
 npm run dev
 ```
