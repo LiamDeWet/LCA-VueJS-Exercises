@@ -1,29 +1,5 @@
-# LCA-ex02 Cape Town Food Fest Ticket Landing
+# Vue 3 + Vite
 
-## Overview
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-A Vue 3 single-page application showcasing ticket tiers for the Cape Town Food Fest.
-
-Features include:
-
-- Dynamic ticket cards
-- Featured ticket highlighting
-- Favourite ticket functionality
-- Responsive design
-- Ticket sorting by price
-
-## Technologies
-
-- Vue 3
-- Vite
-- CSS3
-
-## Installation
-
-```bash
-npm install
-npm run dev
-```
-
-## Screenshot
-
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
