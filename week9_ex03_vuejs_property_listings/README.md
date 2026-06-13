@@ -27,6 +27,7 @@ A Vue 3 application that showcases short-term rental properties in Cape Town.
 ## Installation
 
 ```bash
+cd week9_ex03_vuejs_property_listings
 npm install
 npm run dev
 ```
