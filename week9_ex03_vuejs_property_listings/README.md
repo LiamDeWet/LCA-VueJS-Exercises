@@ -1,4 +1,4 @@
-#LCA-Vue-pt 3 Homes & Beyond Property Mini Listings
+# LCA-Vue-pt 3 Homes & Beyond Property Mini Listings
 
 
 **Trainee:** Liam De Wet
