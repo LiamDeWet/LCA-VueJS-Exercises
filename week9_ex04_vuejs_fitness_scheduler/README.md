@@ -1,5 +1,45 @@
-# Vue 3 + Vite
+# LCA-Vue-pt 3 FlexZone Fitness Scheduler
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Trainee:** Liam De Wet
+<br>
+**Programme:** YouthCode Off-Site - Cohort 2, 2026
+<br>
+**Course:** Course 1 - Frontend Web Development
+<br>
+**Topic:** FlexZone Fitness Tracker
+<br>
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Overview
+
+A Vue 3 fitness class scheduling application that allows gym staff to create, manage, search, and delete class sessions.
+
+## Features
+
+- Add fitness classes
+- Delete classes
+- Form validation
+- Search by coach
+- Session count
+- Next upcoming session
+- localStorage persistence
+- Responsive design
+- Animated transitions
+
+## Installation
+
+```bash
+cd week9_ex04_vuejs_fitness_scheduler
+npm install
+npm run dev
+```
+
+## Technologies
+
+- Vue 3
+- Vite
+- CSS3
+
+## Screenshot
+<p align="center">
+  <img src="images/Capture.PNG" alt="Cape town food fest landing page" width="600">
+</p>
